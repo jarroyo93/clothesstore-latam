@@ -127,6 +127,7 @@
   },
   "defaultProject": "clothesstore-latam",
   "cli": {
+    "analytics": "3b7ba60d-c871-43f9-8c38-4f65a81ddef8",
     "defaultCollection": "@angular-eslint/schematics",
     "packageManager": "yarn"
   }
